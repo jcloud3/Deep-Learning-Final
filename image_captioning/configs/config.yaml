@@ -1,0 +1,11 @@
+Train:
+  model: resnet34
+  batch_size: 128
+  learning_rate: 0.01
+  reg: 0.0005
+  epochs: 15
+  steps: [6, 8]
+  warmup: 0
+  momentum: 0.9
+  loss_type: CE
+

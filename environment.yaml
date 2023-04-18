@@ -1,0 +1,5 @@
+name: cs7643-fp
+channels:
+  - defaults
+dependencies:
+  - numpy
